@@ -8,7 +8,7 @@ package despesas;
  *
  * @author TOSHIBA
  */
-public class Despesas {
+public class Main {
 
     /**
      * @param args the command line arguments
